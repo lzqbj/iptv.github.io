@@ -21,9 +21,12 @@ http://2.itvbox.cc/zyplayer/云星日记.json
 http://1.itvbox.cc/如意音乐/云星日记.json  
 http://2.itvbox.cc/如意音乐/云星日记.json  
     
-另外两位的备用接口  
+备用接口  
 http://www.饭太硬.com/tv  
 http://肥猫.com/  
+http://fty.888484.xyz/  
+http://饭.eu.org/  
+
 
 #参考  
 [myTv-0](https://github.com/lizongying/my-tv-0)  
