@@ -24,8 +24,9 @@ http://2.itvbox.cc/如意音乐/云星日记.json
 备用接口  
 http://www.饭太硬.com/tv  
 http://肥猫.com/  
-http://fty.888484.xyz/  
-http://饭.eu.org/  
+http://肥猫.live/  
+http://fty.888484.xyz/tv  
+http://饭.eu.org/tv  
 
 
 #参考  
