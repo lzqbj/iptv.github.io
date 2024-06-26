@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://01e117.netsite.cc/proxy/1964731068/1964731068.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -9,7 +9,7 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://01e117.netsite.cc/proxy/488588922/488588922.m3u8
+http://xyt.186738613.xyz/lngd.php?id=063&Cf.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -30,31 +30,22 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://01e117.netsite.cc/proxy/1288910059/1288910059.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://01e117.netsite.cc/proxy/1263246901/1263246901.m3u8
+http://aff7da.netsite.cc/proxy/1263246901/1263246901.m3u8
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://01e117.netsite.cc/proxy/479563435/479563435.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://01e117.netsite.cc/proxy/1100148851/1100148851.m3u8
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://01e117.netsite.cc/proxy/329783189/329783189.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://01e117.netsite.cc/proxy/518544399/518544399.m3u8
-
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://01e117.netsite.cc/proxy/1213181202/1213181202.m3u8
-
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://01e117.netsite.cc/proxy/642661480/642661480.m3u8
-
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
-http://01e117.netsite.cc/proxy/1213181202/1213181202.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
@@ -63,39 +54,40 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://01e117.netsite.cc/proxy/105545939/105545939.m3u8
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://01e117.netsite.cc/proxy/1187608335/1187608335.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-http://01e117.netsite.cc/proxy/1076829733/1076829733.m3u8
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://01e117.netsite.cc/proxy/1924965376/1924965376.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
 
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://01e117.netsite.cc/proxy/1817490980/1817490980.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/ahwshd8m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://01e117.netsite.cc/proxy/969538215/969538215.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://01e117.netsite.cc/proxy/1763730718/1763730718.m3u8
+http://xyt.186738613.xyz/lngd.php?id=099&Cf.m3u8
 
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://01e117.netsite.cc/proxy/1919483832/1919483832.m3u8
+http://xyt.186738613.xyz/lngd.php?id=339&Cf.m3u8
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://xyt.186738613.xyz/lngd.php?id=058&Cf.m3u8
 
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://01e117.netsite.cc/proxy/1727775864/1727775864.m3u8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
 
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://01e117.netsite.cc/proxy/1094148202/1094148202.m3u8
@@ -123,9 +115,6 @@ http://01e117.netsite.cc/proxy/825435414/825435414.m3u8
 
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://01e117.netsite.cc/proxy/1494390345/1494390345.m3u8
-
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://01e117.netsite.cc/proxy/2131459290/2131459290.m3u8
 
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://01e117.netsite.cc/proxy/2064842136/2064842136.m3u8
