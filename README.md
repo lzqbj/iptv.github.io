@@ -34,7 +34,7 @@ http://饭.eu.org/tv
 [myTv-0](https://github.com/lizongying/my-tv-0)  
 [fanmingming](https://github.com/fanmingming/live)  
 [DIYP直播源详情列表](https://ctsfork.github.io/web/iptv/index.html)  
-https://www.iptvindex.com(https://www.iptvindex.com)
+[https://www.iptvindex.com](https://www.iptvindex.com)
 
 #工具  
 [Tvlist](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)  
